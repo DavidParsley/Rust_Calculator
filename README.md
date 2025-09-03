@@ -101,17 +101,20 @@ This project goes beyond simple arithmetic by interacting with the user, remembe
 
 ## 🗂️ Code Structure
 
-rust_calculator/
-├── src/
-│   └── main.rs          # Main program source
-├── target/              # Auto-generated build artifacts
-│   └── debug/
-│   └── .rustc_info.json
-│   └── CACHEDIR.TAG
-├── .gitignore
-├── Cargo.lock
-├── Cargo.toml
-├── README.md
+## 🗂️ Code Structure
+
+- `rust_calculator/`
+  - `src/`
+    - `main.rs`          # Main program source
+  - `target/`            # Auto-generated build artifacts
+    - `debug/`
+    - `.rustc_info.json`
+    - `CACHEDIR.TAG`
+  - `.gitignore`
+  - `Cargo.lock`
+  - `Cargo.toml`
+  - `README.md`
+
 
 ## 🛠️ Troubleshooting
 
