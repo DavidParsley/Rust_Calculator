@@ -101,8 +101,6 @@ This project goes beyond simple arithmetic by interacting with the user, remembe
 
 ## 🗂️ Code Structure
 
-## 🗂️ Code Structure
-
 - `rust_calculator/`
   - `src/`
     - `main.rs`          # Main program source
